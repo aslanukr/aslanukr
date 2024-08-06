@@ -7,7 +7,7 @@
       width="300" 
       height="20" 
       style="vertical-align: text-bottom; margin-left: 8px;" 
-    /> Fullstack Developer. Ukrainian. From Lviv
+    /> Fullstack Dev. Ukrainian. From Lviv
     <img 
       src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" 
       alt="Ukraine's flag" 
