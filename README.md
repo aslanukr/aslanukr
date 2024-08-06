@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Vitaliy Korostylov</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" alt="Ukraine's flag" width="24" height="18" style="vertical-align: middle; margin-right: 8px;" />
+  <h1 align="center" style="font-size: 24px; display: inline; margin: 0; padding: 0;">Hi 👋, I'm Vitaliy Korostylov</h1>
+</p>
 <h3 align="center">Fullstack Developer. Ukrainian. From Lviv.</h3></div>
 
 - 🔭 I’m currently working on **Requiem project (backend)**
