@@ -18,13 +18,13 @@
   </h3>
 </p>
 
-- 🔭 I’m currently working on **Requiem project (backend)**
+- 🔭 Working on **Requiem project (backend)**
 
-- 🌱 I’m currently learning **Next.js, PostgreSQL**
+- 🌱 Learning **Next.js, PostgreSQL**
 
-- 👨‍💻 Links to my projects portfolio: [https://aslanukr.github.io/homepage/](https://aslanukr.github.io/homepage/)
+- 👨‍💻 My projects portfolio: [https://aslanukr.github.io/homepage/](https://aslanukr.github.io/homepage/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://t.me/vitaliy_koros" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="vitaliy_koros" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vitaliy-korostylov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitaliy-korostylov" height="30" width="40" /></a>
