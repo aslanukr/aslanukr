@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div display="flex" justify-content="center" background="grey"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
