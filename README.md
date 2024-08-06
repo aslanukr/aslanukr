@@ -18,16 +18,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
-      height="40" />
-  </a>
+      height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -38,6 +34,20 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40" />
+  </a>
+     <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+      alt="react"
+      width="40"
+      height="40" />
+  </a>
+   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg"
       alt="react"
       width="40"
       height="40" />
@@ -85,6 +95,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+      alt="postman"
+      width="40"
+      height="40" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -99,7 +116,7 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -120,10 +137,32 @@
       width="40"
       height="40" />
   </a>
+   <a href="https://styled-components.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:318/1*p1TndLk3UsGPBsM7qHPZIw.png"
+      alt="sass"
+      width="40"
+      height="40" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
       width="40"
       height="40" />
-  </a> </p>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+      alt="figma"
+      width="40"
+      height="40" />
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      alt="figma"
+      width="40"
+      height="40" />
+  </a>
+  </p>
