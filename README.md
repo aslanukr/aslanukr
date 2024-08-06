@@ -76,19 +76,22 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
+ <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+      alt="figma"
+      width="40"
+      height="40" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40" />
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      alt="figma"
+      width="40"
+      height="40" />
   </a>
   <a href="https://figma.com" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="display: inline-block; background: rgba(211, 211, 211, 0.5); border-radius: 5px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
+ 
 </div>
