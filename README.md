@@ -1,4 +1,4 @@
-<div><img src="https://www.svgrepo.com/show/405641/flag-for-flag-ukraine.svg" alt="Ukraine's flag" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/><h1 align="center">Hi 👋, I'm Vitaliy Korostylov</h1>
+<h1 align="center">Hi 👋, I'm Vitaliy Korostylov</h1>
 <h3 align="center">Fullstack Developer. Ukrainian. From Lviv.</h3></div>
 
 - 🔭 I’m currently working on **Requiem project (backend)**
