@@ -1,7 +1,13 @@
-<h1 align="center" style="font-size: 24px; display: inline; margin: 0; padding: 0;">Hi 👋, I'm Vitaliy Korostylov</h1>
+<h1 align="center" style="font-size: 24px; display: inline; margin: 0; padding: 0;">👋 Hi, I'm Vitaliy Korostylov</h1>
 <p align="center">
   <h3 align="center" style="display: inline; margin: 0; padding: 0;">
-    Fullstack Developer. Ukrainian. From Lviv
+     <img 
+      src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" 
+      alt="Ukraine's flag" 
+      width="24" 
+      height="18" 
+      style="vertical-align: text-bottom; margin-left: 8px;" 
+    />Fullstack Developer. Ukrainian. From Lviv
     <img 
       src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" 
       alt="Ukraine's flag" 
