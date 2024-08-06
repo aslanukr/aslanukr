@@ -4,14 +4,14 @@
      <img 
       src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" 
       alt="Ukraine's flag" 
-      width="300" 
+      width="200" 
       height="20" 
       style="vertical-align: text-bottom; margin-left: 8px;" 
     /> Fullstack Dev. Ukrainian. From Lviv
     <img 
       src="https://raw.githubusercontent.com/csmoore/country-flag-icons/8f7c50904bb7080b8aef99c3fa836305117bcbc1/country-flags-4x3-svg/ua.svg" 
       alt="Ukraine's flag" 
-      width="300" 
+      width="200" 
       height="20" 
       style="vertical-align: text-bottom; margin-left: 8px;" 
     />
